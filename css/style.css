@@ -1,0 +1,47 @@
+/* Start Header Section */
+header {
+    margin: auto;
+    background: #fff;
+    padding: 20px;
+}
+header .logo-section img {
+    max-width: 170px;
+    width: 100%;
+}
+.breadcrumb-bar {
+    width: 100%;
+    height: 4px;
+    background-image: linear-gradient(to left, #e69c18, #fc6306);
+}
+/* End Header Section */
+/* Start Body Section */
+.body_container {
+	padding: 40px 0;
+}
+.body_container h1 {
+    font-size: 30px;
+    text-align: left;
+    margin: 0 0 20px;
+    color: #333;
+}
+ul.pagination {
+	margin: 0;
+}
+.table > thead > tr > th {
+	min-width: 80px;
+}
+/* End Body Section */
+/* Start Footer Section */
+footer {
+    background-color: #332b28;
+}
+footer p {
+	color: #fff;
+	font-family: freight-display-pro;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 18px;
+	padding: 15px;
+	margin: 0;
+}
+/* End Footer Section */
