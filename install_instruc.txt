@@ -1,0 +1,8 @@
+Installation and Instruction
+-----------------------------
+1.If you run in local machine without any server conectivity, this assignment run in firefox only, because firefox supports http call.
+2.If you run in local machine with any server conectivity, this assignment run in any browser.
+3.If your local machine supports Cross-origin resource sharing(CORS), then you can you the API for the external data.
+4.My machine not support the Cross-origin resource sharing(CORS), for that I downloaded the external data from the API and store it in a json file and use it.
+5.In this assignment, I downloaded all the external library, like jquery & angular and use it.
+6.Just download the assignment and run it with the above instruction.
