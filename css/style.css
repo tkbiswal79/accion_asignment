@@ -29,6 +29,7 @@ ul.pagination {
 }
 .table > thead > tr > th {
 	min-width: 80px;
+	cursor: pointer;
 }
 /* End Body Section */
 /* Start Footer Section */

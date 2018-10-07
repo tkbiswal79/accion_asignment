@@ -1,0 +1,6 @@
+Test Cases
+------------
+1.Check the data coming from the external source path is correct or not.
+2.Check all the header of the table is sorting or not on the click of it.
+3.Check the search box for searching of all the area of the table.
+4.Check the pagination of all type like, first, last ,next, previous and number wise of the page.
